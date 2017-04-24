@@ -168,7 +168,7 @@ function call_yelp(zip, food, price) {
             newEntry();
         },
         error: function() {
-            alert("API call failed! contact zk65@cornell.edu asap, thank you!");
+            alert("API call failed! contact varunsinghai@outlooks asap, thank you!");
         }
     });
 }
